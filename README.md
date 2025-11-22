@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub
 
-I'm **Yasith Piyumantha** — someone who enjoys exploring technology, solving problems, and building things that make life a little easier. I’m always learning, experimenting, and improving my craft.
+I'm **Yasith Piyumantha**, someone who enjoys exploring technology, solving problems, and building things that make life a little easier. I’m always learning, experimenting, and improving my craft.
 
 ---
 
