@@ -10,7 +10,7 @@ Here are some of the technologies I’m familiar with and enjoy working with:
 - **Networking & Security:** FortiGate, Palo Alto, Cisco, SD-WAN, Ruckus, Forescout  
 - **Platforms:** Docker, Linux, NoSQL  
 - **Other Interests:** Automation, system hardening, infrastructure design
-- **Programming:** Python, C++, Bash, JavaScript
+- **Programming:** Python, C++, Bash
 
 (These will naturally grow as I learn more.)
 
@@ -27,7 +27,8 @@ I like diving into topics around:
 ## 📫 Connect With Me
 - **Email:** *yasithpiyumantha@gmail.com*  
 - **LinkedIn:** *https://www.linkedin.com/in/yasith-piyumantha-8a6228180/*  
-
+- **ResearchGate:** *https://www.researchgate.net/profile/Yasith-Maha-Mohottala?ev=hdr_xprf*
+- **Medium:** *https://yaziya.medium.com/*
 ---
 
 ## ✨ Fun Fact
