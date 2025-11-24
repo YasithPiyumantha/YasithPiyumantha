@@ -26,7 +26,7 @@ I like diving into topics around:
 
 ## 📫 Connect With Me
 - **Email:** *yasithpiyumantha@gmail.com*  
-- **LinkedIn:** *[your LinkedIn link here](https://www.linkedin.com/in/yasith-piyumantha-8a6228180/)*  
+- **LinkedIn:** *https://www.linkedin.com/in/yasith-piyumantha-8a6228180/*  
 
 ---
 
